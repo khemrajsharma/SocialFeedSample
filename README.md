@@ -20,15 +20,15 @@ A React Native social media feed application built with Expo, showcasing feature
 
 ## Project Structure
 
--assets #static assets
--src
-   -components #resusable UI components
-   -navigation #Navigation config
-   -screens #main screens
-   -store #redux store and slices
-   -theme #theme condig
-   -types #typescript types
--App.tsx #App entry point
+- assets #static assets
+- src
+   - components #resusable UI components
+   - navigation #Navigation config
+   - screens #main screens
+   - store #redux store and slices
+   - theme #theme condig
+   - types #typescript types
+- App.tsx #App entry point
 
 
 ## Setup Instructions
