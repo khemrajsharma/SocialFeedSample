@@ -48,7 +48,7 @@ A React Native social media feed application built with Expo, showcasing feature
    - Protected routes based on authentication state
 
 3. UI/UX
-   - Material Design components for consistent look
+   - Used React native paper for consistent look across devices
    - FAB for quick post creation
    - Infinite scrolling for better performance using FlatList
 
